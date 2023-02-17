@@ -14,4 +14,13 @@ To run the jupyter file, you must "rehydrate" the tweet IDs in the dataset folde
 <!-- WARNING: The data contain content that is racist, sexist and offensive in many other ways. -->
 
 
+***Please cite our paper in any published work that uses any of these resources.***
+~~~
+@inproceedings{kwarteng2023understanding,
+  title={Understanding Misogynoir: A Study of Annotators’ Perspectives},
+  author={Kwarteng, Joseph and  Burel, Gregoire and Third, Aisling and Farrell, Tracie and Fernandez, Miriam},
+  booktitle={Proceedings of the 15th ACM Web Science Conference 2023, April 30-May 1, 2023, Evanston, TX, USA},
+  pages={},
+  year={2023}
+}
 
